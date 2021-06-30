@@ -6,4 +6,4 @@ My GitHub profile gathers my personal projects, contributions, participations to
 
 #### Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YsarocK&layout=compact&langs_count=8)](https://github.com/YsarocK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YsarocK&layout=compact&langs_count=8&bg_color=#000)](https://github.com/YsarocK/github-readme-stats)

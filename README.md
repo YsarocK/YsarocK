@@ -1,8 +1,7 @@
 # Hello !👋
 
-Mon profil GitHub réunit mes projets personnels, contributions, participations à des tests techniques, tout ce qui tourne autour du développement web. Certains projets y sont aboutis, d'autres absolument pas.
-
-My GitHub profile gathers my personal projects, contributions, participations to technical tests, everything around web development. Some projects are finished, others are not.
+Frontend developer at unflux. I develop things I like or need.
+Nuxt lover, I try to invest myself in its eco system and more widely the OSS ecosystem.
 
 #### Statistics
 

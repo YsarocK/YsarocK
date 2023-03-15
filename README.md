@@ -6,3 +6,7 @@ Nuxt lover, I try to invest myself in its eco system and more widely the OSS eco
 #### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YsarocK&layout=compact&langs_count=8&theme=graywhite)](https://github.com/YsarocK/github-readme-stats)
+
+<a href="https://makers.appwrite.io/YsarocK">
+    <img src="https://appwrite.io/cards/makers/YsarocK" alt="YsarocK's Maker Card" />
+</a>

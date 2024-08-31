@@ -1,6 +1,6 @@
 # Hello !👋
 
-Frontend developer at unflux. I develop things I like or need.
+Freelance Frontend developer. I develop things I like or need.
 Nuxt lover, I try to invest myself in its eco system and more widely the OSS ecosystem.
 
 ## Projects

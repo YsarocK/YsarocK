@@ -11,6 +11,7 @@ My packages/plugins:
 - <img src="https://seeklogo.com/images/A/appwrite-logo-D33B39992A-seeklogo.com.png" width="15" style="float:left;"> [nuxt3-appwrite](https://github.com/YsarocK/nuxt-appwrite)
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15" style="float:left;"> [fetch-firestore-types](https://github.com/YsarocK/fetch-firestore-types)
 - <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="15" style="float:left;"> [Figma Plugin - Instagram multi-post maker](https://github.com/YsarocK/figma-image-divider)
+- <img src="https://nuxt.com/assets/design-kit/icon-green.png" width="15" style="float:left;"> [nuxt-query-sync](https://github.com/YsarocK/nuxt-query-sync)
 
 #### Statistics
 

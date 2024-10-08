@@ -16,7 +16,7 @@ My packages/plugins:
 
 
 Some tools i built:
-- <img src="https://equi-engagements.fr/favicon.ico" width="15" style="float:left;"> [equi-engagements.fr](https://equi-engagements.fr)
+- <img src="https://equi-engagements.fr/favicon.ico" width="15" style="float:left;"> [equi-engagements.fr](https://equi-engagements.fr) [WIP]
 - <img src="https://img-grid-generator.com/favicon.ico" width="15" style="float:left;"> [img-grid-generator.com](https://img-grid-generator.com)
 ## Support me
 [Buy me a coffee](https://www.buymeacoffee.com/etiennemoureton)

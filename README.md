@@ -13,9 +13,10 @@ My packages/plugins:
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15" style="float:left;"> [fetch-firestore-types](https://github.com/YsarocK/fetch-firestore-types)
 - <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="15" style="float:left;"> [Figma Plugin - Instagram multi-post maker](https://github.com/YsarocK/figma-image-divider)
 - <img src="https://nuxt.com/assets/design-kit/icon-green.png" width="15" style="float:left;"> [nuxt-query-sync](https://github.com/YsarocK/nuxt-query-sync)
-#### Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YsarocK&layout=compact&langs_count=8&theme=graywhite)](https://github.com/YsarocK/github-readme-stats)
 
+Some tools i built:
+- <img src="https://equi-engagements.fr/favicon.ico" width="15" style="float:left;"> [equi-engagements.fr](https://equi-engagements.fr)
+- <img src="https://img-grid-generator.com/favicon.ico" width="15" style="float:left;"> [img-grid-generator.com](https://img-grid-generator.com)
 ## Support me
 [Buy me a coffee](https://www.buymeacoffee.com/etiennemoureton)
